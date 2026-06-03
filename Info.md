@@ -7,6 +7,9 @@
 3. Analytical_Report_Real_Estate.md – аналитическая записка с выводами и рекомендациями заказчику
 4. Дашборд в Yandex DataLens: https://datalens.yandex/qfi58ijrxjvka 
 
+### Стек:
+Проект выполнен с помощью PostgreSQL через DBeaver. Визуализация данных проведена с помощью Yandex DataLens.
+
 ### Описание данных
 #### Таблица `advertisement`
 Содержит информацию об объявлениях:  
